@@ -1,2 +1,0 @@
-# DianaBeh
-Created with CodeSandbox
